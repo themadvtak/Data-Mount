@@ -1,0 +1,1575 @@
+
+ALLDATA 10.53 Full Set 2013.Q3 on 90xDVD (1982-2014)
+
+*************************
+
+Emissions Quick Reference Guide (1966-2013) can be found under TECHNICIANS REFERENCE.
+
+-------------------------
+
+Alldata 10.53 Service Advisor 2013.Q3
+
+Service Advisor #1 1982-2014 (SA101Q313.iso)
+Buick                      1982-2013
+Buick Truck                2002-2013
+Cadillac                   1982-2013
+Cadillac Truck             1999-2013
+Chevrolet                  1982-2013
+Chevy Truck                1982-2013
+Chrysler                   1982-2013
+Chrysler Truck             1990-2013
+Dodge                      1982-2013
+Dodge Truck                1982-2013
+Eagle                      1982-1998
+Ford                       1982-2013
+Ford Truck                 1982-2013
+GMC Truck                  1982-2013
+Geo                        1989-1997
+Geo Truck                  1989-1997
+Hummer                     1998-2009
+Jeep Truck                 1982-2014
+Lincoln                    1982-2013
+Lincoln Truck              1998-2013
+Mercury                    1982-2013
+Mercury Truck              1993-2013
+Oldsmobile                 1982-2004
+Oldsmobile Truck           1990-2004
+Plymouth                   1982-2001
+Plymouth Truck             1982-2000
+Pontiac                    1982-2010
+Pontiac Truck              1990-2009
+SRT                             2013
+Saturn                     1991-2009
+Saturn Truck               2002-2009
+Workhorse                       1999
+* 2001 Cadillac Truck Not Produced
+ 
+Service Advisor #2 1982-2014 (SA201Q313.iso)
+Acura                      1986-2014
+Acura Truck                1996-2014
+Audi                       1982-2013
+Daewoo                     1999-2002
+Daihatsu                   1988-1992
+Daihatsu Truck             1990-1992
+Honda                      1982-2014
+Honda Truck                1994-2013
+Hyundai                    1986-2013
+Hyundai Truck              1986,2001-2013
+Infiniti                   1990-2013
+Infiniti Truck             1997-2013
+Isuzu                      1982-1993
+Isuzu Truck                1982-2009
+Kia                        1993-2013
+Kia Truck                  1995-2014
+Lexus                      1990-2013
+Lexus Truck                1996-2013
+Mazda                      1982-2014
+Mazda Truck                1982-2014
+Mitsubishi                 1983-2013
+Mitsubishi Fuso            1998-2005
+Mitsubishi Truck           1983-2013
+Nissan-Datsun              1982-2013
+Nissan-Datsun Truck        1982-2014
+Scion                      2004-2013
+Subaru                     1982-2014
+Subaru Truck               1982-1988
+Suzuki                     1989-2013
+Suzuki Truck               1986-2013
+Toyota                     1982-2013
+Toyota Truck               1982-2013
+UD                         1999-2007
+* 1985 Mazda Truck not produced
+ 
+Service Advisor #3 1982-2013 (SA301Q313.iso)
+Audi                       1982-2013
+BMW                        1982-2013
+Fiat                       1982-2013
+Freightliner               2002-2008
+Jaguar                     1982-2013
+Land Rover                 1987-2013
+Mercedes Benz              1982-2013
+Mercedes Benz Truck        1998-2013
+Mini                       2002-2013
+Peugeot                    1982-1993
+Porsche                    1982-2013
+Renault                    1982-1987
+Saab                       1982-2013
+Smart                      2008-2013
+Volkswagen                 1982-2013
+Volkswagen Truck           1982-2003
+Volvo                      1982-2013
+Yugo                       1986-1992
+
+
+-------------------------
+
+Alldata 10.53 Domestic 2013.Q3
+
+Domestic #1 1982-2009 (DM01Q313.iso)
+Chrysler                1982-2009
+Dodge 	                1982-2009
+Eagle                   1982-1998
+Plymouth                1982-2001
+
+Domestic #2 1982-2013 (DM02Q313.iso)
+Chrysler 		2010-2013
+Chrysler Truck 		1990-2006
+Dodge 			2010-2013
+Dodge or Ram Truck 	1982-2006
+Jeep Truck 		1982-2006
+Plymouth Truck 		1982-2000
+SRT 			2013
+
+Domestic #3 2007-2010 (DM03Q313.iso)
+Chrysler Truck 		2007-2010
+Dodge or Ram Truck 	2007-2008
+Jeep Truck 		2007-2010
+
+Domestic #4 2009-2014 (DM04Q313.iso)
+Chrysler Truck 		2011-2013
+Dodge or Ram Truck 	2009-2013
+Jeep Truck 		2011-2014
+
+Domestic #5 1982-2006 (DM05Q313.iso)
+Ford Truck 	        1982-2006
+Lincoln Truck 	        1998-2006
+
+Domestic #6 2007-2011 (DM06Q313.iso)
+Ford Truck              2007-2011
+
+Domestic #7 2009-2013 (DM07Q313.iso)
+Ford Truck              2009-2013
+
+Domestic #8 2007-2013 (DM08Q313.iso)
+Ford Truck 	        2009-2013
+Lincoln Truck 	        2007-2009
+
+Domestic #9 1982-2013 (DM09Q313.iso)
+Ford 		        1982-1999
+Lincoln 	        1982-1999
+Lincoln Truck 	        2010-2013
+Mercury 	        1982-1999
+Mercury Truck 	        2010-2011
+
+Domestic #10 2000-2010 (DM10Q313.iso)
+Ford 		        2000-2010
+Lincoln 	        2000-2010
+Lincoln Truck 	        2010
+Mercury 	        2000-2010
+
+Domestic #11 2011-2013 (DM11Q313.iso)
+Ford 	                2011-2013
+Mercury                 2011
+
+Domestic #12 1982-2013 (DM12Q313.iso)
+Buick Truck 		2002-2003
+Cadillac Truck 		1999-2003
+Chevy Truck 		1982-2003
+GMC Truck 		1982-1997
+Lincoln 		2011-2013
+Oldsmobile Truck 	1990-2003
+Pontiac Truck 		1990-2003
+
+Domestic #13 2002-2009 (DM13Q313.iso)
+Buick Truck 		2004-2009
+Cadillac Truck 		2004-2009
+Chevy Truck 		2004-2009
+GMC Truck 		2004-2009
+Oldsmobile Truck 	2004
+Pontiac Truck 		2004-2009
+Saturn Truck 		2002-2009
+
+Domestic #14 1982-2013 (DM14Q313.iso)
+Buick 		        1982-1998
+Buick Truck 	        2010-2013
+Cadillac 	        1982-1998
+Cadillac Truck 	        2010-2013
+Chevrolet 	        1982-1998
+Chevy Truck 	        2010-2013
+GMC Truck 	        2010-2013
+Geo 		        1989-1997
+Hummer 		        1998-2010
+Oldsmobile 	        1982-1998
+Pontiac 	        1982-1998
+Saturn 		        1991-1998
+
+Domestic #15 1999-2006 (DM15Q313.iso)
+Buick 		        1999-2006
+Cadillac 	        1999-2006
+Chevrolet 	        1999-2006
+Oldsmobile 	        1999-2004
+Pontiac 	        1999-2006
+Saturn 		        1999-2006
+
+Domestic #16 1999-2013 (DM16Q313.iso)
+Buick                   2007
+Buick                   2008
+Buick                   2009
+Buick                   2010
+Buick                   2011
+Buick                   2012
+Buick                   2013
+Cadillac                2007
+Cadillac                2008
+Cadillac                2009
+Cadillac                2010
+Cadillac                2011
+Cadillac                2012
+Cadillac                2013
+Chevrolet               2007
+Chevrolet               2008
+Chevrolet               2009
+Chevrolet               2010
+Chevrolet               2011
+Chevrolet               2012
+Chevrolet               2013
+Lincoln Truck           2007
+Lincoln Truck           2008
+Lincoln Truck           2009
+Pontiac                 2007
+Pontiac                 2008
+Pontiac                 2009
+Pontiac                 2010
+Saturn                  2007
+Saturn                  2008
+Saturn                  2009
+Workhorse               1999
+
+
+EMI2002 - (EMI2002.isz)
+Alfa Romeo 67-81
+Audi 70-81
+Austin 68-75
+BMW 66-81
+Fiat 67-81
+Jaguar 67-81
+MG 67-80
+Mercedes Benz 67-81
+Peugeot 67-81
+Porsche 67-81
+Renault 67-81
+Saab 67-81
+Triumph 67-81
+Volkswagen 66-81
+Volvo 67-81
+Honda 69-81
+Isuzu 1981
+Mazda 70-81
+Nissan 67-81
+Subaru 77-81
+Toyota 67-81
+Chrysler 66-81
+GM 66-81
+Ford 66-81
+Checker 78-81
+IHC Truck 67-81
+
+
+-------------
+Alldata 10.53 Import Asian 2013.Q3
+
+Import #1 1986-2011 (IMP01Q313.iso)
+Acura 1986
+Acura 1987
+Acura 1988
+Acura 1989
+Acura 1990
+Acura 1991
+Acura 1992
+Acura 1993
+Acura 1994
+Acura 1995
+Acura 1996
+Acura 1997
+Acura 1998
+Acura 1999
+Acura 2000
+Acura 2001
+Acura 2002
+Acura 2003
+Acura 2004
+Acura 2005
+Acura 2006
+Acura 2007
+Acura 2008
+Acura 2009
+Acura 2010
+Acura 2011
+Acura Truck 1996
+Acura Truck 1997
+Acura Truck 1998
+Acura Truck 1999
+Acura Truck 2001
+Acura Truck 2002
+Acura Truck 2003
+Acura Truck 2004
+Acura Truck 2005
+Acura Truck 2006
+Acura Truck 2007
+Acura Truck 2008
+Acura Truck 2009
+Acura Truck 2010
+Acura Truck 2011
+
+Import #2 1982-2014 (IMP02Q313.iso)
+Acura 2012
+Acura 2013
+Acura 2014
+Acura Truck 2012
+Acura Truck 2013
+Acura Truck 2014
+Daewoo 1999
+Daewoo 2000
+Daewoo 2001
+Daewoo 2002
+Daihatsu 1988
+Daihatsu 1989
+Daihatsu 1990
+Daihatsu 1991
+Daihatsu 1992
+Daihatsu Truck 1990
+Daihatsu Truck 1991
+Daihatsu Truck 1992
+Honda 1982
+Honda 1983
+Honda 1984
+Honda 1985
+Honda 1986
+Honda 1987
+Honda 1988
+Honda 1989
+Honda 1990
+Honda 1991
+Honda 1992
+Honda 1993
+Honda 1994
+Honda 1995
+Honda 1996
+Honda 1997
+Honda 1998
+Honda 1999
+Honda 2000
+Honda 2001
+Honda 2002
+Honda 2003
+Honda 2004
+Honda Truck 1994
+Honda Truck 1995
+Honda Truck 1996
+Honda Truck 1997
+Honda Truck 1998
+Honda Truck 1999
+Honda Truck 2000
+Honda Truck 2001
+Honda Truck 2002
+Honda Truck 2003
+Honda Truck 2004
+
+Import #3 2005-2010 (IMP03Q313.iso)
+Honda 2005
+Honda 2006
+Honda 2007
+Honda 2008
+Honda 2009
+Honda 2010
+Honda Truck 2005
+Honda Truck 2006
+Honda Truck 2007
+Honda Truck 2008
+Honda Truck 2009
+Honda Truck 2010
+
+Import #4 2011-2012 (IMP04Q313.iso)
+Honda 2011
+Honda 2012
+Honda Truck 2011
+
+Import #5 1986-2014 (IMP05Q313.iso)
+Honda 2012
+Honda 2013
+Honda 2014
+Honda Truck 2012
+Honda Truck 2013
+Hyundai 1986
+Hyundai 1987
+Hyundai 1988
+Hyundai 1989
+Hyundai 1990
+Hyundai 1991
+Hyundai 1992
+Hyundai 1993
+Hyundai 1994
+Hyundai 1995
+Hyundai 1996
+Hyundai 1997
+Hyundai 1998
+Hyundai 1999
+Hyundai 2000
+Hyundai 2001
+Hyundai 2002
+Hyundai 2003
+Hyundai 2004
+Hyundai 2005
+Hyundai 2006
+Hyundai 2007
+Hyundai 2008
+Hyundai Truck 1986
+Hyundai Truck 2001
+Hyundai Truck 2002
+Hyundai Truck 2003
+Hyundai Truck 2004
+Hyundai Truck 2005
+Hyundai Truck 2006
+Hyundai Truck 2007
+Hyundai Truck 2008
+
+Import #6 2009-2010 (IMP06Q313.iso)
+Hyundai 2009
+Hyundai 2010
+Hyundai Truck 2009
+
+Import #7 2011-2013 (IMP07Q313.iso)
+Hyundai 2011
+Hyundai 2012
+Hyundai 2013
+
+Import #8 1990-2013 (IMP08Q313.iso)
+Hyundai Truck 2010
+Hyundai Truck 2011
+Hyundai Truck 2012
+Hyundai Truck 2013
+Infiniti 1990
+Infiniti 1991
+Infiniti 1992
+Infiniti 1993
+Infiniti 1994
+Infiniti 1995
+Infiniti 1996
+Infiniti 1997
+Infiniti 1998
+Infiniti 1999
+Infiniti 2000
+Infiniti 2001
+Infiniti 2002
+Infiniti 2003
+Infiniti 2004
+Infiniti 2005
+Infiniti 2006
+Infiniti 2007
+Infiniti 2008
+Infiniti Truck 1997
+Infiniti Truck 1998
+Infiniti Truck 1999
+Infiniti Truck 2000
+Infiniti Truck 2001
+Infiniti Truck 2002
+Infiniti Truck 2003
+Infiniti Truck 2004
+Infiniti Truck 2005
+Infiniti Truck 2006
+Infiniti Truck 2007
+Infiniti Truck 2008
+
+Import #9 1982-2013 (IMP09Q313.iso)
+Infiniti 2009
+Infiniti 2010
+Infiniti 2011
+Infiniti 2012
+Infiniti 2013
+Infiniti Truck 2009
+Infiniti Truck 2010
+Infiniti Truck 2011
+Infiniti Truck 2012
+Infiniti Truck 2013
+Isuzu 1982
+Isuzu 1983
+Isuzu 1984
+Isuzu 1985
+Isuzu 1986
+Isuzu 1987
+Isuzu 1988
+Isuzu 1989
+Isuzu 1990
+Isuzu 1991
+Isuzu 1992
+Isuzu 1993
+Isuzu Truck 1982
+Isuzu Truck 1983
+Isuzu Truck 1984
+Isuzu Truck 1985
+Isuzu Truck 1986
+Isuzu Truck 1987
+Isuzu Truck 1988
+Isuzu Truck 1989
+Isuzu Truck 1990
+Isuzu Truck 1991
+Isuzu Truck 1992
+Isuzu Truck 1993
+Isuzu Truck 1994
+Isuzu Truck 1995
+Isuzu Truck 1996
+Isuzu Truck 1997
+Isuzu Truck 1998
+Isuzu Truck 1999
+Isuzu Truck 2000
+Isuzu Truck 2001
+Isuzu Truck 2002
+Isuzu Truck 2003
+Isuzu Truck 2004
+Isuzu Truck 2005
+Isuzu Truck 2006
+Isuzu Truck 2007
+Isuzu Truck 2008
+Isuzu Truck 2009
+Isuzu Truck 2010
+Isuzu Truck 2011
+Isuzu Truck 2012
+Isuzu Truck 2013
+Kia 1993
+Kia 1994
+Kia 1995
+Kia 1996
+Kia 1997
+Kia 1998
+Kia 1999
+Kia 2000
+Kia 2001
+Kia 2002
+Kia 2003
+Kia 2004
+Kia 2005
+Kia 2006
+Kia Truck 1995
+Kia Truck 1996
+Kia Truck 1997
+Kia Truck 1998
+Kia Truck 1999
+Kia Truck 2000
+Kia Truck 2001
+Kia Truck 2002
+Kia Truck 2003
+Kia Truck 2004
+Kia Truck 2005
+Kia Truck 2006
+
+Import #10 2007-2009 (IMP10Q313.iso)
+Kia 2007
+Kia 2008
+Kia 2009
+Kia Truck 2007
+Kia Truck 2008
+
+Import #11 2009-2013 (IMP11Q313.iso)
+Kia 2010
+Kia 2011
+Kia 2012
+Kia 2013
+Kia Truck 2009
+
+Import #12 1990-2014 (IMP12Q313.iso)
+Kia Truck 2010
+Kia Truck 2011
+Kia Truck 2012
+Kia Truck 2013
+Kia Truck 2014
+Lexus 1990
+Lexus 1991
+Lexus 1992
+Lexus 1993
+Lexus 1994
+Lexus 1995
+Lexus 1996
+Lexus 1997
+Lexus 1998
+Lexus 1999
+Lexus 2000
+Lexus 2001
+Lexus 2002
+Lexus 2003
+Lexus 2004
+Lexus Truck 1996
+Lexus Truck 1997
+Lexus Truck 1998
+Lexus Truck 1999
+Lexus Truck 2000
+Lexus Truck 2001
+Lexus Truck 2002
+Lexus Truck 2003
+Lexus Truck 2004
+
+Import #13 2005-2008 (IMP13Q313.iso)
+Lexus 2005
+Lexus 2006
+Lexus 2007
+Lexus 2008
+Lexus Truck 2005
+Lexus Truck 2006
+Lexus Truck 2007
+
+Import #14 2008-2009 (IMP14Q313.iso)
+Lexus 2008
+Lexus 2009
+Lexus Truck 2008
+
+Import #15 2009-2011 (IMP15Q313.iso)
+Lexus 2009
+Lexus Truck 2009
+Lexus Truck 2010
+Lexus Truck 2011
+
+Import #16 2010-2013 (IMP16Q313.iso)
+Lexus 2010
+Lexus 2011
+Lexus 2012
+Lexus 2013
+Lexus Truck 2012
+Lexus Truck 2013
+
+Import #17 2010-2013 (IMP17Q313.iso)
+Lexus 2010
+Lexus 2011
+Lexus 2012
+Lexus 2013
+
+Import #18 1982-2009 (IMP18Q313.iso)
+Mazda 1982
+Mazda 1983
+Mazda 1984
+Mazda 1985
+Mazda 1986
+Mazda 1987
+Mazda 1988
+Mazda 1989
+Mazda 1990
+Mazda 1991
+Mazda 1992
+Mazda 1993
+Mazda 1994
+Mazda 1995
+Mazda 1996
+Mazda 1997
+Mazda 1998
+Mazda 1999
+Mazda 2000
+Mazda 2001
+Mazda 2002
+Mazda 2003
+Mazda 2004
+Mazda 2005
+Mazda 2006
+Mazda 2007
+Mazda 2008
+Mazda 2009
+Mazda Truck 1982
+Mazda Truck 1983
+Mazda Truck 1984
+Mazda Truck 1986
+Mazda Truck 1987
+Mazda Truck 1988
+Mazda Truck 1989
+Mazda Truck 1990
+Mazda Truck 1991
+Mazda Truck 1992
+Mazda Truck 1993
+Mazda Truck 1994
+Mazda Truck 1995
+Mazda Truck 1996
+Mazda Truck 1997
+Mazda Truck 1998
+Mazda Truck 1999
+Mazda Truck 2000
+Mazda Truck 2001
+Mazda Truck 2002
+Mazda Truck 2003
+Mazda Truck 2004
+Mazda Truck 2005
+Mazda Truck 2006
+
+Import #19 2010-2011 (IMP19Q313.iso)
+Mazda 2010
+Mazda 2011
+
+Import #20 2007-2014 (IMP20Q313.iso)
+Mazda 2012
+Mazda 2013
+Mazda 2014
+Mazda Truck 2007
+Mazda Truck 2008
+Mazda Truck 2009
+
+Import #21 1983-2014 (IMP21Q313.iso)
+Mazda Truck 2010
+Mazda Truck 2011
+Mazda Truck 2012
+Mazda Truck 2013
+Mazda Truck 2014
+Mitsubishi 1983
+Mitsubishi 1984
+Mitsubishi 1985
+Mitsubishi 1986
+Mitsubishi 1987
+Mitsubishi 1988
+Mitsubishi 1989
+Mitsubishi 1990
+Mitsubishi 1991
+Mitsubishi 1992
+Mitsubishi 1993
+Mitsubishi 1994
+Mitsubishi 1995
+Mitsubishi 1996
+Mitsubishi 1997
+Mitsubishi 1998
+Mitsubishi 1999
+Mitsubishi 2000
+Mitsubishi 2001
+Mitsubishi 2002
+Mitsubishi 2003
+Mitsubishi Truck 1983
+Mitsubishi Truck 1984
+Mitsubishi Truck 1985
+Mitsubishi Truck 1986
+Mitsubishi Truck 1987
+Mitsubishi Truck 1988
+Mitsubishi Truck 1989
+Mitsubishi Truck 1990
+Mitsubishi Truck 1991
+Mitsubishi Truck 1992
+Mitsubishi Truck 1993
+Mitsubishi Truck 1994
+Mitsubishi Truck 1995
+Mitsubishi Truck 1996
+Mitsubishi Truck 1997
+Mitsubishi Truck 1998
+Mitsubishi Truck 1999
+Mitsubishi Truck 2000
+Mitsubishi Truck 2001
+Mitsubishi Truck 2002
+Mitsubishi Truck 2003
+
+Import #22 2004-2011 (IMP22Q313.iso)
+Mitsubishi 2004
+Mitsubishi 2005
+Mitsubishi 2006
+Mitsubishi 2007
+Mitsubishi 2008
+Mitsubishi 2009
+Mitsubishi 2010
+Mitsubishi 2011
+Mitsubishi Truck 2004
+Mitsubishi Truck 2005
+Mitsubishi Truck 2006
+Mitsubishi Truck 2007
+Mitsubishi Truck 2008
+Mitsubishi Truck 2009
+Mitsubishi Truck 2010
+
+Import #23 1982-2013 (IMP23Q313.iso)
+Mitsubishi 2012
+Mitsubishi 2013
+Mitsubishi Truck 2011
+Mitsubishi Truck 2012
+Mitsubishi Truck 2013
+Nissan-Datsun 1982
+Nissan-Datsun 1983
+Nissan-Datsun 1984
+Nissan-Datsun 1985
+Nissan-Datsun 1986
+Nissan-Datsun 1987
+Nissan-Datsun 1988
+Nissan-Datsun 1989
+Nissan-Datsun 1990
+Nissan-Datsun 1991
+Nissan-Datsun 1992
+Nissan-Datsun 1993
+Nissan-Datsun 1994
+Nissan-Datsun 1995
+Nissan-Datsun 1996
+Nissan-Datsun 1997
+Nissan-Datsun 1998
+Nissan-Datsun 1999
+Nissan-Datsun 2000
+Nissan-Datsun 2001
+Nissan-Datsun 2002
+Nissan-Datsun 2003
+Nissan-Datsun 2004
+Nissan-Datsun Truck 1982
+Nissan-Datsun Truck 1983
+Nissan-Datsun Truck 1984
+Nissan-Datsun Truck 1985
+Nissan-Datsun Truck 1986
+Nissan-Datsun Truck 1987
+Nissan-Datsun Truck 1988
+Nissan-Datsun Truck 1989
+Nissan-Datsun Truck 1990
+Nissan-Datsun Truck 1991
+Nissan-Datsun Truck 1992
+Nissan-Datsun Truck 1993
+Nissan-Datsun Truck 1994
+Nissan-Datsun Truck 1995
+Nissan-Datsun Truck 1996
+Nissan-Datsun Truck 1997
+Nissan-Datsun Truck 1998
+Nissan-Datsun Truck 1999
+Nissan-Datsun Truck 2000
+Nissan-Datsun Truck 2001
+Nissan-Datsun Truck 2002
+Nissan-Datsun Truck 2003
+Nissan-Datsun Truck 2004
+
+Import #24 2005-2011 (IMP24Q313.iso)
+Nissan-Datsun 2005
+Nissan-Datsun 2006
+Nissan-Datsun 2007
+Nissan-Datsun 2008
+Nissan-Datsun 2009
+Nissan-Datsun 2010
+Nissan-Datsun 2011
+Nissan-Datsun Truck 2005
+Nissan-Datsun Truck 2006
+Nissan-Datsun Truck 2007
+Nissan-Datsun Truck 2008
+Nissan-Datsun Truck 2009
+Nissan-Datsun Truck 2010
+Nissan-Datsun Truck 2011
+
+Import #25 2004-2014 (IMP25Q313.iso)
+Nissan-Datsun 2012
+Nissan-Datsun 2013
+Nissan-Datsun Truck 2012
+Nissan-Datsun Truck 2013
+Nissan-Datsun Truck 2014
+Scion 2004
+Scion 2005
+Scion 2006
+Scion 2007
+Scion 2008
+Scion 2009
+Scion 2010
+Scion 2011
+Scion 2012
+Scion 2013
+
+Import #26 1982-2014 (IMP26Q313.iso)
+Subaru 1982
+Subaru 1983
+Subaru 1984
+Subaru 1985
+Subaru 1986
+Subaru 1987
+Subaru 1988
+Subaru 1989
+Subaru 1990
+Subaru 1991
+Subaru 1992
+Subaru 1993
+Subaru 1994
+Subaru 1995
+Subaru 1996
+Subaru 1997
+Subaru 1998
+Subaru 1999
+Subaru 2000
+Subaru 2001
+Subaru 2002
+Subaru 2003
+Subaru 2004
+Subaru 2005
+Subaru 2006
+Subaru 2007
+Subaru 2008
+Subaru 2009
+Subaru 2010
+Subaru 2011
+Subaru 2012
+Subaru 2013
+Subaru 2014
+Subaru Truck 1982
+Subaru Truck 1983
+Subaru Truck 1984
+Subaru Truck 1985
+Subaru Truck 1986
+Subaru Truck 1987
+Subaru Truck 1988
+Suzuki 1989
+Suzuki 1990
+Suzuki 1991
+Suzuki 1992
+Suzuki 1993
+Suzuki 1994
+Suzuki 1995
+Suzuki 1996
+Suzuki 1997
+Suzuki 1998
+Suzuki 1999
+Suzuki 2000
+Suzuki 2001
+Suzuki 2002
+Suzuki 2003
+Suzuki 2004
+Suzuki 2005
+Suzuki 2006
+Suzuki 2007
+Suzuki 2008
+Suzuki Truck 1986
+Suzuki Truck 1987
+Suzuki Truck 1988
+Suzuki Truck 1989
+Suzuki Truck 1990
+Suzuki Truck 1991
+Suzuki Truck 1992
+Suzuki Truck 1993
+Suzuki Truck 1994
+Suzuki Truck 1995
+Suzuki Truck 1996
+Suzuki Truck 1997
+Suzuki Truck 1998
+Suzuki Truck 1999
+Suzuki Truck 2000
+Suzuki Truck 2001
+Suzuki Truck 2002
+Suzuki Truck 2003
+Suzuki Truck 2004
+Suzuki Truck 2005
+Suzuki Truck 2006
+Suzuki Truck 2007
+Suzuki Truck 2008
+
+Import #27 1982-2013 (IMP27Q313.iso)
+Suzuki 2009
+Suzuki 2010
+Suzuki 2011
+Suzuki 2012
+Suzuki 2013
+Suzuki Truck 2009
+Suzuki Truck 2010
+Suzuki Truck 2011
+Suzuki Truck 2012
+Suzuki Truck 2013
+Toyota 1982
+Toyota 1983
+Toyota 1984
+Toyota 1985
+Toyota 1986
+Toyota 1987
+Toyota 1988
+Toyota 1989
+Toyota 1990
+Toyota 1991
+Toyota 1992
+Toyota 1993
+Toyota 1994
+Toyota 1995
+Toyota 1996
+Toyota 1997
+Toyota 1998
+Toyota 1999
+Toyota 2000
+Toyota 2001
+Toyota Truck 1982
+Toyota Truck 1983
+Toyota Truck 1984
+Toyota Truck 1985
+Toyota Truck 1986
+Toyota Truck 1987
+Toyota Truck 1988
+Toyota Truck 1989
+Toyota Truck 1990
+Toyota Truck 1991
+Toyota Truck 1992
+Toyota Truck 1993
+Toyota Truck 1994
+Toyota Truck 1995
+Toyota Truck 1996
+Toyota Truck 1997
+Toyota Truck 1998
+Toyota Truck 1999
+Toyota Truck 2000
+Toyota Truck 2001
+
+Import #28 2002-2005 (IMP28Q313.iso)
+Toyota 2002
+Toyota 2003
+Toyota 2004
+Toyota 2005
+Toyota Truck 2002
+Toyota Truck 2003
+Toyota Truck 2004
+Toyota Truck 2005
+
+Import #29 2006-2008 (IMP29Q313.iso)
+Toyota 2006
+Toyota 2007
+Toyota 2008
+
+Import #30 2006, 2009 (IMP30Q313.iso)
+Toyota 2009
+Toyota Truck 2006
+
+Import #31 2007-2009 (IMP31Q313.iso)
+Toyota Truck 2007
+Toyota Truck 2008
+Toyota Truck 2009
+
+Import #32 2008-2010 (IMP32Q313.iso)
+Toyota 2010
+Toyota Truck 2008
+Toyota Truck 2009
+
+Import #33 2010-2012 (IMP33Q313.iso)
+Toyota 2010
+Toyota 2011
+Toyota 2012
+
+Import #34 2012-2013 (IMP34Q313.iso)
+Toyota 2012
+Toyota 2013
+
+Import #35 2010-2011 (IMP35Q313.iso)
+Toyota Truck 2010
+Toyota Truck 2011
+
+Import #36 1998-2013 (IMP36Q313.iso)
+Mitsubishi Fuso 1998
+Mitsubishi Fuso 1999
+Mitsubishi Fuso 2000
+Mitsubishi Fuso 2001
+Mitsubishi Fuso 2002
+Mitsubishi Fuso 2003
+Mitsubishi Fuso 2004
+Mitsubishi Fuso 2005
+Toyota Truck 2011
+Toyota Truck 2012
+Toyota Truck 2013
+UD 1999
+UD 2000
+UD 2001
+UD 2002
+UD 2003
+UD 2004
+UD 2005
+UD 2006
+UD 2007
+
+
+------------------------
+Alldata 10.53 Import Europe 2013.Q3
+
+Import #37 1982-2008 (IMP37Q313.iso)
+Audi 1982
+Audi 1983
+Audi 1984
+Audi 1985
+Audi 1986
+Audi 1987
+Audi 1988
+Audi 1989
+Audi 1990
+Audi 1991
+Audi 1992
+Audi 1993
+Audi 1994
+Audi 1995
+Audi 1996
+Audi 1997
+Audi 1998
+Audi 1999
+Audi 2000
+Audi 2001
+Audi 2002
+Audi 2003
+Audi 2004
+Audi 2005
+Audi 2006
+Audi 2007
+Audi 2008
+
+Import #38 2008-2010 (IMP38Q313.iso)
+Audi 2008
+Audi 2009
+Audi 2010
+
+Import #39 2010-2013 (IMP39Q313.iso)
+Audi 2010
+Audi 2011
+Audi 2012
+Audi 2013
+
+Import #40 1982-2013 (IMP40Q313.iso)
+BMW 1982
+BMW 1983
+BMW 1984
+BMW 1985
+BMW 1986
+BMW 1987
+BMW 1988
+BMW 1989
+BMW 1990
+BMW 1991
+BMW 1992
+BMW 1993
+BMW 1994
+BMW 1995
+BMW 1996
+BMW 1997
+BMW 1998
+BMW 1999
+BMW 2000
+BMW 2001
+BMW 2002
+BMW 2003
+Mini 2002
+Mini 2003
+Mini 2004
+Mini 2005
+Mini 2006
+Mini 2007
+Mini 2008
+Mini 2009
+Mini 2010
+Mini 2011
+Mini 2012
+Mini 2013
+
+Import #41 2004-2009 (IMP41Q313.iso)
+BMW 2004
+BMW 2005
+BMW 2006
+BMW 2007
+BMW 2008
+BMW 2009
+
+Import #42 2009-2011 (IMP42Q313.iso)
+BMW 2009
+BMW 2010
+BMW 2011
+
+Import #43 2001-2011 (IMP43Q313.iso)
+BMW 2001
+BMW 2002
+BMW 2003
+BMW 2004
+BMW 2005
+BMW 2006
+BMW 2007
+BMW 2008
+BMW 2009
+BMW 2010
+BMW 2011
+
+Import #44 2004-2009 (IMP44Q313.iso)
+BMW 2004
+BMW 2005
+BMW 2006
+BMW 2007
+BMW 2008
+BMW 2009
+
+Import #45 2010-2012 (IMP45Q313.iso)
+BMW 2010
+BMW 2011
+BMW 2012
+
+Import #46 1982-2013 (IMP46Q313.iso)
+BMW 2012
+BMW 2013
+Jaguar 1982
+Jaguar 1983
+Jaguar 1984
+Jaguar 1985
+Jaguar 1986
+Jaguar 1987
+Jaguar 1988
+Jaguar 1989
+Jaguar 1990
+Jaguar 1991
+Jaguar 1992
+Jaguar 1993
+Jaguar 1994
+Jaguar 1995
+Jaguar 1996
+Jaguar 1997
+Jaguar 1998
+Jaguar 1999
+Jaguar 2000
+Jaguar 2001
+Jaguar 2002
+Jaguar 2003
+Jaguar 2004
+Jaguar 2005
+Jaguar 2006
+Jaguar 2007
+Jaguar 2008
+Jaguar 2009
+Jaguar 2010
+Jaguar 2011
+
+Import #47 1987-2013 (IMP47Q313.iso)
+Jaguar 2012
+Jaguar 2013
+Land Rover 1987
+Land Rover 1988
+Land Rover 1989
+Land Rover 1990
+Land Rover 1991
+Land Rover 1992
+Land Rover 1993
+Land Rover 1994
+Land Rover 1995
+Land Rover 1996
+Land Rover 1997
+Land Rover 1998
+Land Rover 1999
+Land Rover 2000
+Land Rover 2001
+Land Rover 2002
+Land Rover 2003
+Land Rover 2004
+Land Rover 2005
+Land Rover 2006
+Land Rover 2007
+Land Rover 2008
+
+Import #48 2009-2012 (IMP48Q313.iso)
+Land Rover 2009
+Land Rover 2010
+Land Rover 2011
+Land Rover 2012
+
+Import #49 1982-2013 (IMP49Q313.iso)
+Land Rover 2012
+Land Rover 2013
+Mercedes Benz 1982
+Mercedes Benz 1983
+Mercedes Benz 1984
+Mercedes Benz 1985
+Mercedes Benz 1986
+Mercedes Benz 1987
+Mercedes Benz 1988
+Mercedes Benz 1989
+Mercedes Benz 1990
+Mercedes Benz 1991
+Mercedes Benz 1992
+Mercedes Benz 1993
+Mercedes Benz 1994
+Mercedes Benz 1995
+Mercedes Benz 1996
+Mercedes Benz 1997
+Mercedes Benz 1998
+Mercedes Benz 1999
+Mercedes Benz 2000
+Mercedes Benz Truck 1998
+Mercedes Benz Truck 1999
+Mercedes Benz Truck 2000
+Mercedes Benz Truck 2001
+Mercedes Benz Truck 2002
+Mercedes Benz Truck 2003
+Mercedes Benz Truck 2004
+Mercedes Benz Truck 2005
+
+Import #50 2006-2007 (IMP50Q313.iso)
+Mercedes Benz Truck 2006
+Mercedes Benz Truck 2007
+
+Import #51 2008-2010 (IMP51Q313.iso)
+Mercedes Benz Truck 2008
+Mercedes Benz Truck 2009
+Mercedes Benz Truck 2010
+
+Import #52 2010-2013 (IMP52Q313.iso)
+Mercedes Benz Truck 2010
+Mercedes Benz Truck 2012
+Mercedes Benz Truck 2013
+
+Import #53 2001-2003 (IMP53Q313.iso)
+Mercedes Benz 2001
+Mercedes Benz 2002
+Mercedes Benz 2003
+
+Import #54 2004-2012 (IMP54Q313.iso)
+Mercedes Benz 2004
+Mercedes Benz 2005
+Mercedes Benz 2006
+Mercedes Benz 2007
+Mercedes Benz 2008
+Mercedes Benz 2009
+Mercedes Benz 2010
+Mercedes Benz 2011
+Mercedes Benz 2012
+
+Import #55 2005-2012 (IMP55Q313.iso)
+Mercedes Benz 2005
+Mercedes Benz 2006
+Mercedes Benz 2007
+Mercedes Benz 2008
+Mercedes Benz 2009
+Mercedes Benz 2010
+Mercedes Benz 2011
+Mercedes Benz 2012
+Mercedes Benz Truck 2011
+
+Import #56 2007-2012 (IMP56Q313.iso)
+Mercedes Benz 2007
+Mercedes Benz 2008
+Mercedes Benz 2009
+Mercedes Benz 2010
+Mercedes Benz 2011
+Mercedes Benz 2012
+
+Import #57 2005-2011 (IMP57Q313.iso)
+Mercedes Benz 2005
+Mercedes Benz 2006
+Mercedes Benz Truck 2011
+
+Import #58 2006-2012 (IMP58Q313.iso)
+Mercedes Benz 2006
+Mercedes Benz 2007
+Mercedes Benz 2008
+Mercedes Benz 2009
+Mercedes Benz 2010
+Mercedes Benz 2011
+Mercedes Benz 2012
+
+Import #59 2005-2008 (IMP59Q313.iso)
+Mercedes Benz 2005
+Mercedes Benz 2006
+Mercedes Benz 2007
+Mercedes Benz 2008
+
+Import #60 2008-2010 (IMP60Q313.iso)
+Mercedes Benz 2008
+Mercedes Benz 2009
+Mercedes Benz 2010
+
+Import #61 1982-2013 (IMP61Q313.iso)
+Mercedes Benz 2010
+Mercedes Benz 2011
+Mercedes Benz 2012
+Mercedes Benz 2013
+Porsche 1982
+Porsche 1983
+Porsche 1984
+Porsche 1985
+Porsche 1986
+Porsche 1987
+Porsche 1988
+Porsche 1989
+Porsche 1990
+Porsche 1991
+Porsche 1992
+Porsche 1993
+Porsche 1994
+Porsche 1995
+Porsche 1996
+Porsche 1997
+Porsche 1998
+Porsche 1999
+Porsche 2000
+Porsche 2001
+Porsche 2002
+Porsche 2003
+
+Import #62 2004-2005 (IMP62Q313.iso)
+Porsche 2004
+Porsche 2005
+
+Import #63 2006-2012 (IMP63Q313.iso)
+Porsche 2006
+Porsche 2007
+Porsche 2008
+Porsche 2009
+Porsche 2010
+Porsche 2011
+Porsche 2012
+
+Import #64 2006-2012 (IMP64Q313.iso)
+Porsche 2006
+Porsche 2007
+Porsche 2008
+Porsche 2009
+Porsche 2010
+Porsche 2011
+Porsche 2012
+
+Import #65 1982-2013 (IMP65Q313.iso)
+Porsche 2009
+Porsche 2010
+Porsche 2011
+Porsche 2012
+Porsche 2013
+Saab 1982
+Saab 1983
+Saab 1984
+Saab 1985
+Saab 1986
+Saab 1987
+Saab 1988
+Saab 1989
+Saab 1990
+Saab 1991
+Saab 1992
+Saab 1993
+Saab 1994
+Saab 1995
+Saab 1996
+Saab 1997
+Saab 1998
+Saab 1999
+Saab 2000
+Saab 2001
+Saab 2002
+Saab 2003
+Saab 2004
+Saab 2005
+Saab 2006
+Saab 2007
+Saab 2008
+Saab 2009
+
+Import #66 1982-2012 (IMP66Q313.iso)
+Saab 2010
+Saab 2011
+Saab 2012
+Volkswagen 1982
+Volkswagen 1983
+Volkswagen 1984
+Volkswagen 1985
+Volkswagen 1986
+Volkswagen 1987
+Volkswagen 1988
+Volkswagen 1989
+Volkswagen 1990
+Volkswagen 1991
+Volkswagen 1992
+Volkswagen 1993
+Volkswagen 1994
+Volkswagen 1995
+Volkswagen 1996
+Volkswagen 1997
+Volkswagen 1998
+Volkswagen 1999
+Volkswagen 2000
+Volkswagen 2001
+Volkswagen 2002
+Volkswagen 2003
+Volkswagen 2004
+Volkswagen 2005
+Volkswagen Truck 1982
+Volkswagen Truck 1983
+Volkswagen Truck 1984
+Volkswagen Truck 1985
+Volkswagen Truck 1986
+Volkswagen Truck 1987
+Volkswagen Truck 1988
+Volkswagen Truck 1989
+Volkswagen Truck 1990
+Volkswagen Truck 1991
+Volkswagen Truck 1992
+Volkswagen Truck 1993
+Volkswagen Truck 1994
+Volkswagen Truck 1995
+Volkswagen Truck 1996
+Volkswagen Truck 1997
+Volkswagen Truck 1998
+Volkswagen Truck 1999
+Volkswagen Truck 2000
+Volkswagen Truck 2001
+Volkswagen Truck 2002
+Volkswagen Truck 2003
+
+Import #67 2006-2009 (IMP67Q313.iso)
+Volkswagen 2006
+Volkswagen 2007
+Volkswagen 2008
+Volkswagen 2009
+
+Import #68 1982-2013 (IMP68Q313.iso)
+Volkswagen 2010
+Volkswagen 2011
+Volkswagen 2012
+Volkswagen 2013
+Volvo 1982
+Volvo 1983
+Volvo 1984
+Volvo 1985
+Volvo 1986
+Volvo 1987
+Volvo 1988
+Volvo 1989
+Volvo 1990
+Volvo 1991
+Volvo 1992
+Volvo 1993
+Volvo 1994
+Volvo 1995
+Volvo 1996
+Volvo 1997
+Volvo 1998
+Volvo 1999
+Volvo 2000
+
+Import #69 2001-2010 (IMP69Q313.iso)
+Volvo 2001
+Volvo 2002
+Volvo 2003
+Volvo 2004
+Volvo 2005
+Volvo 2006
+Volvo 2007
+Volvo 2008
+Volvo 2009
+Volvo 2010
+
+Import #70 1982-2013 (IMP70Q313.iso)
+Fiat 1982
+Fiat 1983
+Fiat 2012
+Fiat 2013
+Freightliner Truck 2002
+Freightliner Truck 2003
+Freightliner Truck 2004
+Freightliner Truck 2005
+Freightliner Truck 2006
+Freightliner Truck 2007
+Freightliner Truck 2008
+Freightliner Truck 2009
+Freightliner Truck 2011
+Freightliner Truck 2012
+Freightliner Truck 2013
+Peugeot 1982
+Peugeot 1983
+Peugeot 1984
+Peugeot 1985
+Peugeot 1986
+Peugeot 1987
+Peugeot 1988
+Peugeot 1989
+Peugeot 1990
+Peugeot 1991
+Peugeot 1992
+Peugeot 1993
+Renault 1982
+Renault 1983
+Renault 1984
+Renault 1985
+Renault 1986
+Renault 1987
+Smart 2008
+Smart 2009
+Smart 2010
+Smart 2011
+Smart 2012
+Smart 2013
+Volvo 2011
+Volvo 2012
+Volvo 2013
+Yugo 1986
+Yugo 1987
+Yugo 1988
+Yugo 1989
+Yugo 1990
+Yugo 1991
+Yugo 1992
+
+
+
+-------------
